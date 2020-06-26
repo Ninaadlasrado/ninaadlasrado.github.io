@@ -15,5 +15,5 @@ Research Interests:
 My research interest revolves around the development of novel vaccines for autoimmune myocarditis and type-1 diabetes caused by various viral agents such as Coxsackievirus-B3 and Coxsackievirus-B4, respectively. I am developing a vaccine candidate that can offer cross-protection against multiple serotypes of Coxsackieviruses. I am also interested studying the trascriptomic changes that occur during the viral autoimmune myocarditis phase, for which I are performing the single-cell transcriptome analyses. I also work on developing transgenic mouse models to study autoimmune myocarditis. In addition to this, I am working on developing novel subunit vaccines for the SARS-CoV-2 using biodegradable-nanoparticles.
 
 Contact
-======
+-------
 If you have any questions, please feel free to send me an [email](mailto:ninaad@huskers.unl.edu).
