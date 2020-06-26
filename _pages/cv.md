@@ -13,12 +13,6 @@ Education
 ======
 * B.S. in Biotechnology, St.Aloysius College, Mangalore, India, 2018
 * Ph.D in Viral Immunology, University of Nebraska-Lincoln, 2023 (expected)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Oral presentations
 ======
@@ -37,20 +31,3 @@ National and International abstracts
 5.	Lasrado N, Arumugam R, Jayaraja S, Thibivilliers S, Libault M, Starr T and Reddy J.  Single cell RNA sequence analysis reveals novel clusters unique to post-infectious myocarditis in the mouse model of Coxsackievirus infection. 107th Annual meeting of the American Association of Immunologists, May 8-12, 2020, Honolulu, HI.
 6.	Massilamany C, Arumugam R, Lasrado N, Gangaplara A, Jayaraja S, Steffen D,  Gurumurthy C, and Reddy J. A unique model of cardiac myosin-specific TCR transgenic mice for dilated cardiomyopathy. 107th Annual meeting of the American Association of Immunologists, May 8-12, 2020, Honolulu, HI.
 7.	Lasrado N, D’Silva P and Lasrado L. Evaluation of the phytochemical, antioxidant, anti-hemolytic and anti-cancer activities of the solvent extracts of Imperata cylindrica: an in-vitro study. February 2-3, 2018, Mangalore, India. 
-
-Teaching
-======
-2015 – 2018       Mentored underprivileged kids as a part of Make a difference, non-government organization (NGO), India        
-2015 - 2018       Mentored High school students in life sciences                                                             
-2019 - present    Teaching assistant for Veterinary Immunology course (VMED-680)                           
-
-a) Tutored DVM students, Professional Program in Veterinary Medicine (2019)
-•	Kaylee Pothoff
-•	Sarah Schuelke
-•	Hannah Evans
-
-b) Taught molecular biology techniques and disease inducing protocols to post-doctoral fellows
-•	Dr.Sabarirajan Jayaraja (Dr.Jay Reddy’s Laboratory)
-•	Dr.Paul Velander (Dr.Amanda-Ramer-Tait’s Laboratory)
-
-
