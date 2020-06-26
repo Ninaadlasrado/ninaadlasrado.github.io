@@ -1,7 +1,7 @@
 ---
 * ***2015 – 2018***       Mentored underprivileged kids as a part of Make a difference, non-government organization (NGO), India        
 * ***2015 - 2018***       Mentored High school students in life sciences                                                             
-* ***2019***              Teaching assistant for Veterinary Immunology course (VMED-680)   
+* ***2019 - Present***    Teaching assistant for Veterinary Immunology course (VMED-680)   
 
 **Tutored DVM students, Professional Program in Veterinary Medicine (2019)**
 * Kaylee Pothoff
