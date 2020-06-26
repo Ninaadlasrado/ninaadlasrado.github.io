@@ -1,5 +1,5 @@
 ---
-title: " **TCR-transgenic Mouse Model to study Autoimmune Myocarditis **"
+title: "**TCR-transgenic Mouse Model to study Autoimmune Myocarditis **"
 excerpt: "Development of a T cell receptor Transgenic Mouse Model specific to Sarcoplasmic/endoplasmic reticulum calcium ATPase 2a to study it's role in autoimmune myocarditis"
 collection: portfolio
 ---
