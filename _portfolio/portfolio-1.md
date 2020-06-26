@@ -1,6 +1,6 @@
 ---
 title: "**Single-cell Sequencing of Immune and Non-immune Cells from Murine Autoimmune Myocarditic Hearts**"
-excerpt: "Single-cell RNA sequencing of murine hearts to dissect immunological networks and cellular complexity in Coxsackievirus B3 induced autoimmune myocarditis 1<br/><img src='/images/500x300.png'>"
+excerpt: "Single-cell RNA sequencing of murine hearts to dissect immunological networks and cellular complexity in Coxsackievirus B3 induced autoimmune myocarditis"
 collection: portfolio
 ---
 
