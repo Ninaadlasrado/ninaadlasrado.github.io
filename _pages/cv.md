@@ -31,3 +31,17 @@ National and International abstracts
 5.	Lasrado N, Arumugam R, Jayaraja S, Thibivilliers S, Libault M, Starr T and Reddy J.  Single cell RNA sequence analysis reveals novel clusters unique to post-infectious myocarditis in the mouse model of Coxsackievirus infection. 107th Annual meeting of the American Association of Immunologists, May 8-12, 2020, Honolulu, HI.
 6.	Massilamany C, Arumugam R, Lasrado N, Gangaplara A, Jayaraja S, Steffen D,  Gurumurthy C, and Reddy J. A unique model of cardiac myosin-specific TCR transgenic mice for dilated cardiomyopathy. 107th Annual meeting of the American Association of Immunologists, May 8-12, 2020, Honolulu, HI.
 7.	Lasrado N, D’Silva P and Lasrado L. Evaluation of the phytochemical, antioxidant, anti-hemolytic and anti-cancer activities of the solvent extracts of Imperata cylindrica: an in-vitro study. February 2-3, 2018, Mangalore, India. 
+
+Awards and Recognitions
+======
+2015	  Best Outgoing Student – Ambika Pre-University College, Mangalore, India
+2016	  3rd place in the State Level Bioquiz-2016 – DBT, Government of India
+2017	  Inspire Research Scholarship for Higher Education – DBT, Government of India
+2018	  Star student award – St. Aloysius College, Mangalore, India 
+2018	  Distinguished seminar award – St. Aloysius College, Mangalore, India 
+2018	  Distinguished project award in Biological Sciences program – St. Aloysius College, Mangalore, India
+2019	  Travel for techniques award, American Association of Immunologists (AAI) 
+2019	  Immune epitope database (IEDB) - NIH Travel award, La Jolla Institute for Allergy and Immunology, San Diego, CA
+2019	  Larrick-Whitmore Travel award, UNL
+2019	  CRWAD Travel award, SVMBS, UNL
+2019	  Laboratory travel grant, AAI, MD 
