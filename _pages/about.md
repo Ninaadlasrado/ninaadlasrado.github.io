@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Integrative Biomedical Sciences (IBMS) program at the University of Nebraska-Lincoln. I am currently pursuing my graduate education under the mentorship of [Dr.Jay Reddy] (https://jayreddy.unl.edu/research), a distinguished Professor in the field of T-cell Immunology. 
+I am a PhD student in the Integrative Biomedical Sciences (IBMS) program at the University of Nebraska-Lincoln. I am currently pursuing my graduate education under the mentorship of [Dr.Jay Reddy](https://jayreddy.unl.edu/research), a distinguished Professor in the field of T-cell Immunology. 
 
 Research Interests:
 ======
