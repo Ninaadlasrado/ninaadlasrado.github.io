@@ -1,0 +1,7 @@
+---
+title: " **TCR-transgenic Mouse Model to study Autoimmune Myocarditis **"
+excerpt: "Development of a T cell receptor Transgenic Mouse Model specific to Sarcoplasmic/endoplasmic reticulum calcium ATPase 2a to study it's role in autoimmune myocarditis"
+collection: portfolio
+---
+
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 2a (SERCA2a), a critical regulator of calcium homeostasis, is known to be decreased in heart failure (HF). Patients with myocarditis or dilated cardiomyopathy develop autoantibodies to SERCA2a, suggesting that they may have a pathogenic signiﬁcance. Any alterations in the SERCA2a functions disturb contractility of the heart leading to HF. We have recently shown the identiﬁcation of multiple immunodominant epitopes of SERCA2a in A/J myocarditis mouse model and one of these epitopes, SERCA2a 971–990, induces mainly atrial inﬂammation by potentially acting as a common epitope for both T cells and B cells. Altered expression of SERCA2a has been reported in major heart diseases including ischemic heart disease, cardiomyopathies and congestive HF, in which downregulated expression of SERCA2a results in both systolic and diastolic heart dysfunctions. Conversely, overexpression of SERCA2a can improve the contractile functions of failing hearts, and also diminish cardiac ﬁbrosis in congestive HF by altering TGF-b signaling. The aim of this project is to develop a T-cell receptor transgenic mouse model specific to SERCA2a and dissect its role in autoimmune diseases.Publications related to this project will be uploaded soon.
