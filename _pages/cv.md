@@ -16,11 +16,11 @@ Education
   
 Oral presentations
 ======
-Lasrado N, Gangaplara A, Arumugam R, Massilamany C, Steffen D and Reddy J. Identification of immunogenic epitopes that permit the detection of antigen-specific T cell responses in multiple serotypes of group B Coxsackievirus infections. CRWAD annual meeting, Chicago, IL, November 3-5, 2019. 
+  Lasrado N, Gangaplara A, Arumugam R, Massilamany C, Steffen D and Reddy J. Identification of immunogenic epitopes that permit the detection of antigen-specific T cell  responses in multiple serotypes of group B Coxsackievirus infections. CRWAD annual meeting, Chicago, IL, November 3-5, 2019. 
 
-Lasrado N, Arumugam R, Jia T, Krishnan B, Xiang S and Reddy J. Evidence for cross-reactive self-antigen in the mediation of post-infectious myocarditis induced by Coxsackie virus B3 infection. FLYSWAT annual meeting, March 17-18, Nebraska City, NE.
+  Lasrado N, Arumugam R, Jia T, Krishnan B, Xiang S and Reddy J. Evidence for cross-reactive self-antigen in the mediation of post-infectious myocarditis induced by Coxsackie virus B3 infection. FLYSWAT annual meeting, March 17-18, Nebraska City, NE.
   
-Lasrado N, Arumugam R, Jayaraja S, Thibivilliers S, Libault M, Starr T and Reddy J.  Single cell RNA sequence analysis reveals novel clusters unique to post-infectious myocarditis in the mouse model of Coxsackievirus infection. 107th Annual meeting of the American Association of Immunologists, May 8-12, 2020, Honolulu, HI.
+  Lasrado N, Arumugam R, Jayaraja S, Thibivilliers S, Libault M, Starr T and Reddy J.  Single cell RNA sequence analysis reveals novel clusters unique to post-infectious myocarditis in the mouse model of Coxsackievirus infection. 107th Annual meeting of the American Association of Immunologists, May 8-12, 2020, Honolulu, HI.
 
 National and International abstracts
 ======
