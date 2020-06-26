@@ -1,0 +1,7 @@
+---
+title: "**Novel Monovalent Vaccine for Viral Myocarditis and Type-1 Diabetes by Enteroviruses**"
+excerpt: "Development of a monovalent CVB3 vaccine virus that offers cross protection against CVB3 and CVB4 infections"
+collection: portfolio
+---
+
+Enteroviruses are the most common to cause infections in humans, and ~five million enterovirus infections are attributed to coxsackievirus B (CVB) serotypes in North America. While CVB3 is identified as an important trigger of myocarditis/dilated cardiomyopathy, CVB4 is linked to the development of insulitis/type I diabetes. Furthermore, emerging data suggest that in the face of preexisting insulitis, enteroviral infections augment diabetes, but in the absence of insulitis, the same infection can suppress type I diabetes development and diabetic cardiomyopathy is expected in those affected. Despite the widespread negative impact these viruses have on human health, no vaccines are commercially available to prevent these infections in humans. We have created a novel monovalent CVB3 vaccine virus that offers complete protection against both myocarditis and pancreatitis in A/J mice that are highly susceptible to CVB3 and also induces cross-protective, neutralizing antibodies to CVB4. This hypothesis is being tested in the outbred, and non-obese diabetic mice utilizing attenuated and hybrid polyelectrolyte multilayer films/lipid nanoparticles encapsulated with inactivated vaccine virus for sustained release in vivo. The manuscript is in preparation, and will be uploaded as soon as it is up on bioRxiv. 
