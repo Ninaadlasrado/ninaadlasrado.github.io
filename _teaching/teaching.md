@@ -1,3 +1,9 @@
+---
+title: "Mentoring and Teaching experience"
+collection: teaching
+permalink: /teaching/teaching
+
+---
 Mentoring and Teaching experience
 ---
 * ***2015 – 2018***       Mentored underprivileged kids as a part of Make a difference, non-government organization (NGO), India        
