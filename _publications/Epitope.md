@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Epitope
 date: 2020-3-21
 venue: 'Viruses'
-Recommended citation: '<b>Lasrado, N.<b>, Gangaplara, A., Arumugam, R., Massilamany, C., Pokal, S., Zhou, Y., Xiang, S.-H., Steffen, D., Reddy, J. Identification of Immunogenic Epitopes That Permit the Detection of Antigen-Specific T Cell Responses in Multiple Serotypes of Group B Coxsackievirus Infections. Viruses 2020, 12, 347.'
+Recommended citation: 'Lasrado, N., Gangaplara, A., Arumugam, R., Massilamany, C., Pokal, S., Zhou, Y., Xiang, S.-H., Steffen, D., Reddy, J. Identification of Immunogenic Epitopes That Permit the Detection of Antigen-Specific T Cell Responses in Multiple Serotypes of Group B Coxsackievirus Infections. Viruses 2020, 12, 347.'
 ---
 
 Abstract:
