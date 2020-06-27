@@ -39,7 +39,7 @@ Awards and Recognitions
 * ***2017***	  Inspire Research Scholarship for Higher Education – DBT, Government of India
 * ***2018***	  Star student award – St. Aloysius College, Mangalore, India 
 * ***2018***	  Distinguished seminar award – St. Aloysius College, Mangalore, India 
-* ***2018***	  Distinguished project award in Biological Sciences program – St. Aloysius College, Mangalore, India
+* ***2018***	  Distinguished project award – St. Aloysius College, Mangalore, India
 * ***2019***	  Travel for techniques award, American Association of Immunologists (AAI) 
 * ***2019***    Immune epitope database (IEDB) - NIH Travel award, La Jolla Institute for Allergy and Immunology, San Diego, CA
 * ***2019***	  Larrick-Whitmore Travel award, UNL
