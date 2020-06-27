@@ -1,5 +1,5 @@
 ---
-title: "Mentoring and Teaching experience"
+**Mentoring and Teaching experience**
 ---
 * ***2015 – 2018***       Mentored underprivileged kids as a part of Make a difference, non-government organization (NGO), India        
 * ***2015 - 2018***       Mentored High school students in life sciences                                                             
