@@ -1,8 +1,8 @@
 ---
-title: "Identification of immunogenic epitopes that permit the detection of antigen-specific T cell responses in multiple serotypes of group B coxsackievirus infections"
+title: "Evidence for anti-viral effects of complete Freund’s adjuvant in the mouse model of enterovirus infection"
 collection: publications
-permalink: /publication/Epitope
-date: 2020-3-21
+permalink: /publication/CFA
+date: 2020-6-28
 venue: 'Vaccines'
 citation: 'Gangaplara, A., Massilamany, C., <b>Lasrado, N.<b>, Steffen, D., Reddy, J., 2020. Evidence for anti-viral effects of complete Freund’s adjuvant in the mouse model of enterovirus infection. bioRxiv, 2020.2005.2027.120121.'
 ---
