@@ -23,7 +23,3 @@ author_profile: true
 **Taught molecular biology techniques and disease inducing protocols to post-doctoral fellows**
 * Dr.Sabarirajan Jayaraja (Dr.Jay Reddy’s Laboratory)
 * Dr.Paul Velander (Dr.Amanda-Ramer-Tait’s Laboratory)
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
