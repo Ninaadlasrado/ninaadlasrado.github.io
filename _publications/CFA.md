@@ -12,7 +12,7 @@ Group B Coxsackieviruses belonging to the genus, Enterovirus, contain six seroty
 
 Access the article below
 ----
-[Link to the article](https://www.biorxiv.org/content/10.1101/2020.05.27.120121v1)
+[Link to the article](https://www.mdpi.com/2076-393X/8/3/364)
 
 [Download the paper here](http://ninaadlasrado.github.io/files/CFA.pdf)
 
