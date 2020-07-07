@@ -47,3 +47,4 @@ Awards and Recognitions
 * ***2019***	  Larrick-Whitmore Travel award, UNL
 * ***2019***    CRWAD Travel award, SVMBS, UNL
 * ***2019***	  Laboratory travel grant, AAI, MD 
+* ***2020***    Widaman Distinguished Graduate Fellowship award, UNL
