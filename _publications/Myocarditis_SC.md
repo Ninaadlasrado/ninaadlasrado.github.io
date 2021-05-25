@@ -12,6 +12,6 @@ Myocarditis induced with Coxsackievirus B3 (CVB3) is commonly employed to study 
 
 Access the article below
 ----
-[Link to the article] (https://doi.org/10.1101/2021.05.16.444367) 
+[Link to the article](https://doi.org/10.1101/2021.05.16.444367) 
 
 [Download the paper here](http://ninaadlasrado.github.io/files/Myocarditis_SC.pdf)
