@@ -12,6 +12,6 @@ Sex-related differences in the occurrence of autoimmune diseases is well documen
 
 Access the article below
 ----
-[Link to the article] (https://doi.org/10.1186/s13293-020-00325-4)
+[Link to the article](https://doi.org/10.1186/s13293-020-00325-4)
 
 [Download the paper here](http://ninaadlasrado.github.io/files/BOSD.pdf)
