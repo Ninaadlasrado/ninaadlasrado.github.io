@@ -1,5 +1,5 @@
 ---
-title: "Dissecting the Cellular Landscape and Transcriptome Network in Viral Myocarditis by Single-Cell RNA Sequencing"
+title: "Dissecting the Cellular Landscape and Transcriptome Network in Viral Myocarditis by Single-Cell RNA Sequencing "
 collection: publications
 permalink: /publication/Myocarditis_SC
 date: 2021-5-17
