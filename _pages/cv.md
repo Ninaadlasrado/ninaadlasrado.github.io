@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV <a href="/files/Lasrado_CV.pdf" download> here.</a>
+You can download my full CV <a href="/files/Lasrado_CV_2022.pdf" download> here.</a>
 
 Education
 ======
