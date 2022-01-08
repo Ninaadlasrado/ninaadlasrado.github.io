@@ -14,7 +14,7 @@ You can download my full CV <a href="/files/Lasrado_CV_2022.pdf" download> here.
 Education
 ======
 * B.S. in Biotechnology, St.Aloysius College, Mangalore, India, 2018
-* Ph.D in Viral Immunology, University of Nebraska-Lincoln, 2023 (expected)
+* Ph.D in Viral Immunology, University of Nebraska-Lincoln, 2022 (expected)
   
 Oral presentations
 ======
