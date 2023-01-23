@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow in the Barouch Lab at Beth Israel Deaconess Medical Center/Harvard Medical School. I completed my PhD in the Integrative Biomedical Sciences (IBMS) program at the University of Nebraska-Lincoln under the mentorship of [Dr. Jay Reddy](https://jayreddy.unl.edu/research). 
+I am a Postdoctoral Research Fellow in the [Barouch Lab](https://cvvr.hms.harvard.edu/lab/barouch-laboratory/) at Beth Israel Deaconess Medical Center/Harvard Medical School. I completed my PhD in the Integrative Biomedical Sciences (IBMS) program at the University of Nebraska-Lincoln under the mentorship of [Dr. Jay Reddy](https://jayreddy.unl.edu/research). 
 
 Research Interests:
 ======
