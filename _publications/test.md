@@ -8,4 +8,4 @@ citation: '<b>Lasrado N</b>, Reddy J. An overview of the immune mechanisms of vi
 ---
 
 
-Lasrado N, Reddy J. An overview of the immune mechanisms of viral myocarditis. Rev Med Virol. 2020;e2131. [https://doi.org/10.1002/rmv.2131](https://doi.org/10.1002/rmv.2131)
+
