@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ninaad Lasrado"
   avatar           : "Avatar.jpg"
-  bio              : "Postdoctoral Research Fellow interested in development of next-gen mRNA vaccines against infectious diseases"
+  bio              : "Postdoctoral Research Fellow interested in developing low-cost & thermostable mucosal RNA vaccines against infectious diseases"
   location         : "Boston, MA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/ninaad.lasrado.1/bibliography/public/"
@@ -99,10 +99,10 @@ author:
   github           : "Ninaadlasrado"
   google_plus      :
   keybase          :
-  instagram        :
+  Instagram        : "https://www.instagram.com/ninaadlasrado/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ninaad-lasrado-000491154/"
+  linkedin         : "https://www.linkedin.com/in/ninaad-lasrado-ph-d-000491154/"
   orcid            : "https://orcid.org/0000-0001-6762-2654"
   pinterest        :
   soundcloud       :
@@ -209,15 +209,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -236,14 +227,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
