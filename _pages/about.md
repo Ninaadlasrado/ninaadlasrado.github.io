@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow in the [Barouch Lab](https://cvvr.hms.harvard.edu/lab/barouch-laboratory/) at Beth Israel Deaconess Medical Center/Harvard Medical School. I completed my PhD in the Integrative Biomedical Sciences (IBMS) program at the University of Nebraska-Lincoln under the mentorship of [Dr. Jay Reddy](https://jayreddy.unl.edu/research). 
+I am a [MassCPR](https://masscpr.hms.harvard.edu/) Postdoctoral Research Fellow working with [Dan Barouch](https://en.wikipedia.org/wiki/Dan_Barouch) in the [Barouch Lab](https://cvvr.hms.harvard.edu/lab/barouch-laboratory/) at Beth Israel Deaconess Medical Center of Harvard Medical School where I primarily develop new thermostable RNA vaccine platforms for mucosal delivery. I completed my PhD in the Integrative Biomedical Sciences (IBMS) program at the University of Nebraska-Lincoln under the mentorship of [Dr. Jay Reddy](https://jayreddy.unl.edu/research). 
 
 Research Interests:
 ======
