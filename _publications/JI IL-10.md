@@ -1,0 +1,10 @@
+---
+title: "IL-10 as a Th2 Cytokine: Differences Between Mice and Humans"
+collection: publications
+permalink: /publication/JI IL-10
+date: 2021-11-1
+venue: 'The Journal of Immunology'
+citation: 'Rasquinha, M.* , Sur, M.*, <b>Lasrado, N.</b>*, Reddy, J., 2021. IL-10 as a Th2 Cytokine: Differences Between Mice and Humans. The Journal of Immunology. * equal first authors. <a href="https://journals.aai.org/jimmunol/article/207/9/2205/234632">https://journals.aai.org/jimmunol/article/207/9/2205/234632</a>'
+---
+
+
